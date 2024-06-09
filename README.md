@@ -1,4 +1,9 @@
-## Hi there 👋
+Hello, I'm Ben Blyth.
+
+- 🔭 I’m currently working on completing the iO Academy Software Developer Essentials course.
+- 🌱 I’m currently learning Laravel. 
+- 📫 How to reach me: email me at: benblyth590@googlemail.com or visit my Linkedin page at: https://www.linkedin.com/in/benjamin-blyth-939a1624b/?originalSubdomain=uk
+- ⚡ Fun fact: I'm a former Primary School Teacher looking to utilise my new coding skills in a new career path! 
 
 <!--
 **bbsaint590/bbsaint590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
