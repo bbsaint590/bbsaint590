@@ -1,6 +1,6 @@
 ### Hello, I'm Ben Blyth! 👋
 
-- 🔭 I’m currently working on completing the iO Academy Software Developer Essentials course.
+- 🔭 I’m recently completed the the iO Academy Software Developer Essentials course.
 - 🌱 I’m currently learning Laravel. 
 - 📫 How to reach me: You can email me at benblyth590@googlemail.com or visit my [LinkedIn page](https://www.linkedin.com/in/benjamin-blyth-939a1624b/?originalSubdomain=uk).
 - ⚡ Fun fact: I'm a former primary school teacher now eager to utilise my new coding skills in an exciting new career path!
